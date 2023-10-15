@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\..SISTEMAS..457--\LAB_6\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\USUARIO\Desktop\..SISTEMAS..457--\LAB_6\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02/SolHeredado.h
+C:\Users\USUARIO\Desktop\..SISTEMAS..457--\LAB_6\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\MovimientoAleatorio.h
+C:\Users\USUARIO\Desktop\..SISTEMAS..457--\LAB_6\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\MovimientoAleatorio.generated.h
+C:\Users\USUARIO\Desktop\..SISTEMAS..457--\LAB_6\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\SolHeredado.generated.h
